@@ -28,7 +28,7 @@ sidebar:
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars: marksie1988
   goodreads: # Number-Username, e.g. 123456-alandoe
-  pdf:
+  pdf: https://resume.totaldebug.uk/assets/steven-marks-resume.pdf
 
   languages:
     title: Languages
@@ -214,8 +214,14 @@ certifications:
     end: 2024
     organization: Google
     credentialid: 8d75167e-0417-4d9a-b834-4e3d4975086a
-    credentialurl: www.credential.net/8d75167e-0417-4d9a-b834-4e3d4975086a
+    credentialurl: https://www.credential.net/8d75167e-0417-4d9a-b834-4e3d4975086a
     credentialname: Google Cloud Certified
+  - name: AI Ready
+    start: 2023
+    organization: Rackspace Technology
+    credentialid: 93cf1769-57d6-45c8-b2d4-a3617b9ae672
+    credentialurl: https://www.credly.com/badges/93cf1769-57d6-45c8-b2d4-a3617b9ae672
+    credentialname: AI Ready
 
 projects:
   title: Projects
