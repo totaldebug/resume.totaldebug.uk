@@ -1,0 +1,11 @@
+# Import theme
+remote_theme: totaldebug/jekyll-theme-resume
+
+title: Steven Marks - Resume
+url: https://resume.totaldebug.uk
+
+description:
+theme_skin: orange
+
+plugins:
+- jekyll-remote-theme
