@@ -13,7 +13,7 @@ sidebar:
   avatar: profile.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email:
+  email: marksie1988@gmail.com
   phone:
   timezone: Europe/London
   citizenship: UK National
@@ -48,10 +48,10 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    As an experienced Systems Engineer, I specialize in Workflow Optimization, Workload Reduction,
-    Process Standardization, and Toolset Integration. I excel in solving complex IT problems and have
+    As an experienced Systems Engineer, I specialise in Workflow Optimisation, Workload Reduction,
+    Process Standardisation and Toolset Integration. I excel in solving complex IT problems and have
     successfully undertaken diverse roles throughout my career. I am passionate about sharing my
-    knowledge and possess strong interpersonal skills, enabling effective communication at all
+    knowledge and posses strong interpersonal skills, enabling effective communication at all
     organizational levels, from front-line support to senior directors.
 
 experiences:
@@ -75,8 +75,8 @@ experiences:
       - Provide support and guidance to other engineers
       - Point of escalation for support teams and Full Stack Systems Engineers
 
-      <h5>Achievments</h5>
-      - Designed, developed & Implemented an analytics tool that was able to identify discrepencies in billing and allow these to be corrected
+      <h5>Achievements</h5>
+      - Designed, developed & Implemented an analytics tool that was able to identify discrepancies in billing and allow these to be corrected
       - Designed, developed & Implemented a fully automated test lab using Terraform and Ansible allowing either user testing or fully automated testing
 
       <h5>Technologies</h5>
@@ -113,7 +113,7 @@ experiences:
       - Planning of on-call rotas and shift patterns
       - Ticket queue reporting and ensuring SLAs are adhered to
 
-      <h5>Achievments</h5>
+      <h5>Achievements</h5>
       - Implemented a reporting tool using Python and Grafana that allowed identification of stale
         tickets along with closure times and additional statistics to aid in faster customer ticket resolutions
         and increase engineer responsibility
@@ -128,7 +128,7 @@ experiences:
     details: |
       Managing a small number of high value enterprise customers ensuring the best solutions
       for the clients needs are provided. A point of escalation for the customer to assist with
-      any issues that arrise.
+      any issues that arise.
 
       <h5>Responsibilities</h5>
       - Overall technical responsibility for a number of large enterprise businesses.
@@ -136,7 +136,7 @@ experiences:
         the best possible service.
       - Track and progress problems and projects to enable continued improvement.
 
-      <h5>Achievments</h5>
+      <h5>Achievements</h5>
       - Worked with the companies two largest customers to ensure retention after a period of issues,
         one customer ended up expanding their contract and adding additional £1.2m due to this effort.
       - Provided a full CMDB device and relationship mapping to allow enhanced support and impact analysis.
@@ -152,16 +152,15 @@ experiences:
     time: 2014 - 2015
     company: Adapt (Acquired by Datapipe)
     details: |
-      Managing a small number of high value enterprise customers ensuring the best solutions
-      for the clients needs are provided. A point of escalation for the customer to assist with
-      any issues that arrise.
+      Providing support and implementing solutions for customers, including development of existing products.
+      A point of escalation for junior engineers.
 
       <h5>Responsibilities</h5>
       - Architect and project manage deployment of customer environments.
       - Act as an escalation point for Junior engineers.
       - Improve technical documentation and procedures.
 
-      <h5>Achievments</h5>
+      <h5>Achievements</h5>
       - Architected a repeatable VMware environment with DR capabilities if required.
       - Fully automated deployment of environment to enable the most efficient use of engineers time.
       - Continued development of internal IPAM for asset tracking and IP Management.
@@ -172,9 +171,8 @@ experiences:
     time: 2013 - 2014
     company: Sleek Networks (Acquired by Adapt)
     details: |
-      Managing a small number of high value enterprise customers ensuring the best solutions
-      for the clients needs are provided. A point of escalation for the customer to assist with
-      any issues that arrise.
+      Providing support to our customers and assisting senior hosting engineers with implementing customer solutions.
+      Completing data centre maintenance including failover testing for generators and A/C checks.
 
       <h5>Responsibilities</h5>
       - Provide assistance in maintaining the data center, including failover testing for generators and mains power.
@@ -188,16 +186,15 @@ experiences:
     time: 2007 - 2013
     company: Galtec Solutions
     details: |
-      Managing a small number of high value enterprise customers ensuring the best solutions
-      for the clients needs are provided. A point of escalation for the customer to assist with
-      any issues that arrise.
+      Providing managed service solutions to multiple clients across Yorkshire, design and implementation of Windows & VMware infrastructures.
+
 
       <h5>Responsibilities</h5>
       - Architect environments for SME customers.
       - Deploy Virtualisation and Windows infrastructures.
       - Evolve the internal & customer products offered.
 
-      <h5>Achievments</h5>
+      <h5>Achievements</h5>
       - Designed & Implemented the first Cloud hosted Bloxx appliance in partnership with Bloxx.
       - Designed & Implemented an off-site backup solution for our managed customers.
       - Designed & Implemented custom Sharepoint sites for businesses.
@@ -228,7 +225,7 @@ projects:
   intro: >
     Below are a few projects that I have developed
   assignments:
-  - title: Atomice Calendar Revive
+  - title: Atomic Calendar Revive
     link: "https://github.com/totaldebug/atomic-calendar-revive"
     tagline: "An advanced calendar card for Home Assistant."
 
