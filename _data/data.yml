@@ -68,16 +68,16 @@ experiences:
       and implementation of tooling to reduce total cost, to customers, the business and to minimise human error.
 
       <h5>Responsibilities</h5>
-      - Identify areas of improvement for existing or new tooling
-      - Manage approved projects and implement within assigned timelines
-      - Provide support and guidance to other engineers
-      - Point of escalation for support teams and Full Stack Systems Engineers
+      - Identify areas of improvement for existing or new tooling;
+      - Manage approved projects and implement within assigned timelines;
+      - Provide support and guidance to other engineers;
+      - Point of escalation for support teams and Full Stack Systems Engineers.
 
       <h5>Achievements</h5>
-      - Designed, developed & Implemented an analytics tool that was able to identify discrepancies in billing and allow these to be corrected
-        - Around $1.2 million in missing revenue identified
-      - Designed, developed & Implemented a fully automated test lab using Terraform and Ansible allowing either user testing or fully automated testing
-      - Implemented an end of life program for devices running end-of-life operating systems, adding roughly $600,000 revenue per year
+      - Designed, developed & implemented an analytics tool that was able to identify discrepancies in billing and allow these to be corrected;
+        - Around $1.2 million in missing revenue identified;
+      - Designed, developed & implemented a fully automated test lab using Terraform and Ansible allowing either user testing or fully automated testing;
+      - Implemented an end-of-life program for devices running end-of-life operating systems, adding roughly $600,000 revenue per year.
 
       <h5>Technologies</h5>
       Jira, Python, Powershell, Github Actions, Okd
@@ -87,7 +87,7 @@ experiences:
     company: Rackspace Technology
     details: |
       Responsible for the design and development of business products and support tooling.
-      Working closely within the team and external stakeholders assisting senior engineers with
+      Working closely within the team and external stakeholders, assisting senior engineers with
       qualifying and documenting new products, both hardware and software.
       <br /><br />
       Identifying areas of improvement both within the team and the larger organisation. Designing,
@@ -95,8 +95,8 @@ experiences:
       and minimise human error.
 
       <h5>Responsibilities</h5>
-      - Improve business workflows and tooling to provide more efficient service
-      - Independently manage assigned tasks and communicate with task stakeholders
+      - Improve business workflows and tooling to provide a more efficient service;
+      - Independently manage assigned tasks and communicate with task stakeholders.
 
       <h5>Technologies</h5>
       Jira, Python, Powershell, Go, Github Actions,
@@ -109,15 +109,15 @@ experiences:
       customer base.
 
       <h5>Responsibilities</h5>
-      - Management of Windows Engineering team, including performance reviews and 1-to-1
-      - Planning of on-call rotas and shift patterns
-      - Ticket queue reporting and ensuring SLAs are adhered to
+      - Management of Windows Engineering team, including performance reviews and 1-to-1s;
+      - Planning of on-call rotas and shift patterns;
+      - Ticket queue reporting and ensuring SLAs are adhered to.
 
       <h5>Achievements</h5>
       - Implemented a reporting tool using Python and Grafana that allowed identification of stale
         tickets along with closure times and additional statistics to aid in faster customer ticket resolutions
-        and increase engineer responsibility
-      - Reduced ticket wait times and queue lengths significantly by implementing better reporting and ticket management procedures
+        and increase engineer responsibility;
+      - Reduced ticket wait times and queue lengths significantly by implementing better reporting and ticket management procedures.
 
       <h5>Technologies</h5>
       ServiceNow, Python, Grafana, InfluxDB
@@ -127,22 +127,22 @@ experiences:
     company: Datapipe (Acquired by Rackspace Technology)
     details: |
       Managing a small number of high value enterprise customers ensuring the best solutions
-      for the clients needs are provided. A point of escalation for the customer to assist with
+      for the client's needs are provided. A point of escalation for the customer to assist with
       any issues that arise.
 
       <h5>Responsibilities</h5>
-      - Overall technical responsibility for a number of large enterprise businesses.
-      - Work closely with the Account Director and Service Manager to co-ordinate teams and deliver
-        the best possible service.
+      - Overall technical responsibility for a number of large enterprise businesses;
+      - Working closely with the Account Director and Service Manager to co-ordinate teams and deliver
+        the best possible service;
       - Track and progress problems and projects to enable continued improvement.
 
       <h5>Achievements</h5>
-      - Worked with the companies two largest customers to ensure retention after a period of issues,
-        one customer ended up expanding their contract and adding additional £1.2m due to this effort.
-      - Provided a full CMDB device and relationship mapping to allow enhanced support and impact analysis.
-      - Executed monthly usage analysis to provide feedback on potential savings or performance bottlenecks.
-        This resulted in a major bottleneck being found with part of the infrastructure and mitigation being implemented.
-      - Implemented a billing audit to ensure devices were being billed accurately each month.
+      - Worked with the company's two largest customers to ensure retention after a period of issues,
+        with one customer expanding their contract and adding additional £1.2m due to this effort;
+      - Provided a full CMDB device and relationship mapping to allow enhanced support and impact analysis;
+      - Executed monthly usage analysis to provide feedback on potential savings or performance bottlenecks;
+        This resulted in a major bottleneck being found with part of the infrastructure and mitigation being implemented;
+      - Implemented a billing audit to ensure devices were being billed accurately each month;
       - Resolved some major problems that were causing poor customer performance.
 
       <h5>Technologies</h5>
@@ -156,13 +156,13 @@ experiences:
       A point of escalation for junior engineers.
 
       <h5>Responsibilities</h5>
-      - Architect and project manage deployment of customer environments.
-      - Act as an escalation point for Junior engineers.
+      - Architecture and management of the deployment of customer environments;
+      - Act as an escalation point for junior engineers;
       - Improve technical documentation and procedures.
 
       <h5>Achievements</h5>
-      - Architected a repeatable VMware environment with DR capabilities if required.
-      - Fully automated deployment of environment to enable the most efficient use of engineers time.
+      - Designed a repeatable VMware environment with DR capabilities where required;
+      - Automated the deployment of environments to enable the most efficient use of engineer's time;
       - Continued development of internal IPAM for asset tracking and IP Management.
 
       <h5>Technologies</h5>
@@ -175,33 +175,12 @@ experiences:
       Completing data centre maintenance including failover testing for generators and A/C checks.
 
       <h5>Responsibilities</h5>
-      - Provide assistance in maintaining the data center, including failover testing for generators and mains power.
-      - Provisioning of new cabinets with power, cabling and switching gear.
+      - Provide assistance in maintaining the data center, including failover testing for generators and mains power;
+      - Provisioning of new cabinets with power, cabling and switching gear;
       - 1st and 2nd line helpdesk support for any customer queries or issues.
 
       <h5>Technologies</h5>
       Juniper SRX and EX, Cisco ASA, VMware vSphere, vCloud Director, Xen Server, NetApp Storage & Backup, Windows Server, Linux (RHEL & Ubuntu), DNS
-
-  - role: Senior IT Consultant
-    time: 2007 - 2013
-    company: Galtec Solutions
-    details: |
-      Providing managed service solutions to multiple clients across Yorkshire, design and implementation of Windows & VMware infrastructures.
-
-
-      <h5>Responsibilities</h5>
-      - Architect environments for SME customers.
-      - Deploy Virtualisation and Windows infrastructures.
-      - Evolve the internal & customer products offered.
-
-      <h5>Achievements</h5>
-      - Designed & Implemented the first Cloud hosted Bloxx appliance in partnership with Bloxx.
-      - Designed & Implemented an off-site backup solution for our managed customers.
-      - Designed & Implemented custom Sharepoint sites for businesses.
-      - Implemented Microsoft Dynamics CRM, improving sales ability to manage customers.
-
-      <h5>Technologies</h5>
-      VMWare vSphere, Veeam Backup & Replication, Windows Server 2003 / 2008, Windows Deployment Services
 
 certifications:
   title: Certifications
