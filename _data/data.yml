@@ -62,12 +62,10 @@ experiences:
     company: Rackspace Technology
     details: |
       Responsible for the project delivery, design and development of business products and support tooling.
-      Working closely within functional team and external stakeholders
-      qualifying and documenting new products, both hardware and software.
+      Working with external stakeholders to qualify and document new products, both hardware and software.
       <br /><br />
-      Identifying areas of improvement both within the team and the larger organization. Designing,
-      engineering, architecture, and integration of tooling to reduce total cost, to support customers
-      and minimize human error.
+      Identifying areas of improvement both within the team and the larger organization. Architecture
+      and implementation of tooling to reduce total cost, to customers, the business and to minimize human error.
 
       <h5>Responsibilities</h5>
       - Identify areas of improvement for existing or new tooling
@@ -77,7 +75,9 @@ experiences:
 
       <h5>Achievements</h5>
       - Designed, developed & Implemented an analytics tool that was able to identify discrepancies in billing and allow these to be corrected
+        - Around $1.2 million in missing revenue identified
       - Designed, developed & Implemented a fully automated test lab using Terraform and Ansible allowing either user testing or fully automated testing
+      - Implemented an end of life program for devices running end-of-life operating systems, adding roughly $600,000 revenue per year
 
       <h5>Technologies</h5>
       Jira, Python, Powershell, Github Actions, Okd
@@ -87,7 +87,7 @@ experiences:
     company: Rackspace Technology
     details: |
       Responsible for the design and development of business products and support tooling.
-      Working closely within functional team and external stakeholders
+      Working closely within the team and external stakeholders assisting senior engineers with 
       qualifying and documenting new products, both hardware and software.
       <br /><br />
       Identifying areas of improvement both within the team and the larger organization. Designing,
