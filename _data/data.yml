@@ -1,217 +1,259 @@
 #
 # Be aware that even a small syntax error here can lead to failures in output.
 #
-
-sidebar:
-  position: left # position of the sidebar : left or right
-  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-  education: False # set to False if you want education in main section instead of in sidebar
-
-  # Profile information
+header:
   name: Steven Marks
-  tagline: Full Stack Systems Engineer III
-  avatar: profile.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  tagline: Full Stack Systems Engineer
 
-  # Sidebar links
+contact:
   email: marksie1988@gmail.com
   phone:
-  timezone: Europe/London
-  citizenship: UK National
   website: totaldebug.uk
   linkedin: marksie1988
-  xing:
   github: marksie1988
-  telegram: # add your nickname without '@' sign
-  gitlab:
-  bitbucket:
-  twitter:
-  stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars: marksie1988
-  goodreads: # Number-Username, e.g. 123456-alandoe
-  pdf: https://resume.totaldebug.uk/assets/steven-marks-resume.pdf
 
-  languages:
-    title: Languages
-    info:
-    - idiom: English
-      level: Native
-
-  interests:
-    title: Interests
-    info:
-    - item: Rugby
-      link:
-
-    - item: Home Automation
-      link:
-
-career-profile:
-  title: Career Profile
-  summary: |
-    As an experienced Systems Engineer, I specialise in Workflow Optimisation, Workload Reduction,
-    Process Standardisation and Toolset Integration. I excel in solving complex IT problems and have
-    successfully undertaken diverse roles throughout my career. I am passionate about sharing my
-    knowledge and possess strong interpersonal skills, enabling effective communication at all
-    organisational levels, from front-line support to senior directors.
+professional-summary:
+  title: Professional Summary
+  detail: >
+    As an experienced Full Stack Systems Engineer, I specialise in Workflow Optimisation, Workload Reduction, Process Standardisation and Toolset Integration. I excel in solving complex IT problems and have successfully undertaken diverse roles throughout my career. <br /> <br /> I am passionate about sharing my knowledge and possess strong interpersonal skills, enabling effective communication at all organisational levels, from front-line support to senior directors.
+skills:
+  title: Key Skills
+  skills:
+  - title: Technical Skills
+    list:
+    - Windows Server
+    - Linux
+    - VMware
+    - Git
+    - Python
+    - AWS SSM
+    - Ansible
+    - Terraform
+    - Jira
+    - Agile
+  - title: Management Skills
+    list:
+    - Team Leader
+    - SLA Management
+    - Guiding Hand
+    - Mentor
+  - title: Analytical Skills
+    list:
+    - Data Analysis
+    - Reporting
+    - Process Improvement
+    - Workflow Optimisation
+  - title: Soft Skills
+    list:
+    - Effective Communication
+    - Problem-solving
+    - Collaboration
+    - Adaptability
+    - Time Management
+    - Critical Thinking
+    - Stress Management
 
 experiences:
   title: Experiences
-  info:
-  - role: Full Stack Systems Engineer III
-    time: 2020 - Present
+  list:
+  - title: Full Stack Systems Engineer III
     company: Rackspace Technology
-    details: |
-      Responsible for the project delivery, design and development of business products and support tooling.
-      Working with external stakeholders to qualify and document new products, both hardware and software.
-      <br /><br />
-      Identifying areas of improvement both within the team and the larger organisation. Architecture
-      and implementation of tooling to reduce total cost, to customers, the business and to minimise human error.
-
-      <h5>Responsibilities</h5>
-      - Identify areas of improvement for existing or new tooling;
-      - Manage approved projects and implement within assigned timelines;
-      - Provide support and guidance to other engineers;
-      - Point of escalation for support teams and Full Stack Systems Engineers.
-
-      <h5>Achievements</h5>
-      - Designed, developed & implemented an analytics tool that was able to identify discrepancies in billing and allow these to be corrected;
-        - Around $1.2 million in missing revenue identified;
-      - Designed, developed & implemented a fully automated test lab using Terraform and Ansible allowing either user testing or fully automated testing;
-      - Implemented an end-of-life program for devices running end-of-life operating systems, adding roughly $600,000 revenue per year.
-
-      <h5>Technologies</h5>
-      Jira, Python, Powershell, Github Actions, Okd
-
-  - role: Full Stack Systems Engineer II
-    time: 2019 - 2020
+    from: 2020
+    to: Present
+    summary: >
+      Responsible for project delivery, design, and development of business products and support tooling.
+    responsibilities:
+      title: Responsibilities
+      list:
+      - Identified areas of improvement for existing or new tooling;
+      - Managed approved projects and implemented them within assigned timelines;
+      - Provided support and guidance to other engineers;
+      - Acted as a point of escalation for support teams and Full Stack Systems Engineers;
+      - Worked with external stakeholders to qualify and document new products, both hardware and software.
+    achievements:
+      title: Achievements
+      list:
+      - Designed, developed and implemented analytics tooling that identified discrepancies in billing, recovering approximately $1.2 million in missing revenue;
+      - Developed and implemented a fully automated test lab using Terraform and Ansible, facilitating both user and automated testing;
+      - Implemented an end-of-life program for devices running outdated operating systems, generating an additional $600,000 in annual revenue.
+    technologies:
+      title: Technologies
+      list:
+      - Jira
+      - Python
+      - Powershell
+      - Github Actions
+      - AWS SSM
+      - Google BigQuery
+      - PostgreSQL
+  - title: Full Stack Systems Engineer II
     company: Rackspace Technology
-    details: |
+    from: 2019
+    to: 2020
+    summary: >
       Responsible for the design and development of business products and support tooling.
-      Working closely within the team and external stakeholders, assisting senior engineers with
-      qualifying and documenting new products, both hardware and software.
-      <br /><br />
-      Identifying areas of improvement both within the team and the larger organisation. Designing,
-      engineering, architecture, and integration of tooling to reduce total cost, to support customers
-      and minimise human error.
-
-      <h5>Responsibilities</h5>
-      - Improve business workflows and tooling to provide a more efficient service;
-      - Independently manage assigned tasks and communicate with task stakeholders.
-
-      <h5>Technologies</h5>
-      Jira, Python, Powershell, Go, Github Actions,
-
-  - role: Technical Support, Team Leader
-    time: 2017 - 2019
+    responsibilities:
+      title: Responsibilities
+      list:
+      - Improved business workflows and tooling to provide a more efficient service;
+      - Independently managed assigned tasks and communicated with task stakeholders;
+      - Worked closely within the team and with external stakeholders, assisting senior engineers in qualifying and documenting new products, both hardware and software;
+      - Identified areas of improvement within the team and the larger organization;
+      - Designed, engineered, architected and integrated tooling to reduce total costs, support customers, and minimize human error.
+    achievements:
+      title: Achievements
+      list:
+      - Implemented single-click login for customer devices, saving an average of 15 minutes per device connection.
+    technologies:
+      title: Technologies
+      list:
+      - Jira
+      - Python
+      - Powershell
+      - Github Actions
+      - Okd
+      - PostgreSQL
+  - title: Technical Support, Team Leader
     company: Rackspace Technology
-    details: |
-      Responsible for leading a team of 13 Windows Engineers, providing 3rd line support to our
-      customer base.
+    from: 2017
+    to: 2019
+    summary: >
+      Responsible for leading a team of 15 Windows Engineers, providing 3rd line support to our customer base.
+    responsibilities:
+      title: Responsibilities
+      list:
+      - Guided the professional development of the Windows Engineering team through coaching, mentoring and regular performance reviews;
+      - Conducted 1-to-1 meetings to provide personalised feedback and set individual growth plans;
+      - Planning on-call rotas and shift patterns to ensure balanced workloads;
+      - Fostered a collaborative team environment and encouraged continuous learning and skills development;
+      - Reported on ticket queues and ensured adherence to SLAs.
 
-      <h5>Responsibilities</h5>
-      - Management of Windows Engineering team, including performance reviews and 1-to-1s;
-      - Planning of on-call rotas and shift patterns;
-      - Ticket queue reporting and ensuring SLAs are adhered to.
+    achievements:
+      title: Achievements
+      list:
+      - Implemented a reporting tool using Python and Grafana, identifying stale tickets, closure times, and additional statistics to aid faster customer ticket resolutions and increase engineer responsibility;
+      - Significantly reduced ticket queue lengths by implementing more efficient ticket management procedures and reporting.
+      - Under my mentorship, the team ticket latency from 4 weeks to 30 minutes.
 
-      <h5>Achievements</h5>
-      - Implemented a reporting tool using Python and Grafana that allowed identification of stale
-        tickets along with closure times and additional statistics to aid in faster customer ticket resolutions
-        and increase engineer responsibility;
-      - Reduced ticket wait times and queue lengths significantly by implementing better reporting and ticket management procedures.
+    technologies:
+      title: Technologies
+      list:
+      - ServiceNow
+      - Python
+      - Grafana
+      - InfluxDB
 
-      <h5>Technologies</h5>
-      ServiceNow, Python, Grafana, InfluxDB
-
-  - role: Technical Lead
-    time: 2015 - 2017
+  - title: Technical Lead
     company: Datapipe (Acquired by Rackspace Technology)
-    details: |
-      Managing a small number of high value enterprise customers ensuring the best solutions
-      for the client's needs are provided. A point of escalation for the customer to assist with
-      any issues that arise.
+    from: 2015
+    to: 2017
+    summary: >
+      Led the technical management of high-value enterprise customers, ensuring optimal solutions and acting as a key point of escalation for critical issues.
+    responsibilities:
+      title: Responsibilities
+      list:
+      - Held overall technical responsibility for several high-value enterprise businesses;
+      - Collaborated closely with the Account Director and Service Manager to coordinate teams and deliver superior service;
+      - Tracked and progressed problems and projects to drive continuous improvement;
+      - Ensured effective communication and alignment with key stakeholders to meet customer expectations and business objectives.
+    achievements:
+      title: Achievements
+      list:
+      - Retained one of the company's largest customers, preventing their departure and securing an additional £1.2 million in revenue through expanded contracts;
+      - Delivered a comprehensive CMDB device and relationship mapping, enabling enhanced support and impact analysis;
+      - Conducted monthly usage analysis to identify potential savings and performance bottlenecks, leading to the discovery and mitigation of a major infrastructure bottleneck;
+      - Implemented a billing audit to ensure accurate monthly billing for all devices;
+      - Resolved major issues that were negatively impacting customer performance, significantly improving satisfaction and service delivery.
+    technologies:
+      title: Technologies
+      list:
+      - VMware vSphere
+      - VMware vRealize
+      - ServiceNow
+      - Windows Server
+      - Cisco ASA
 
-      <h5>Responsibilities</h5>
-      - Overall technical responsibility for a number of large enterprise businesses;
-      - Working closely with the Account Director and Service Manager to co-ordinate teams and deliver
-        the best possible service;
-      - Track and progress problems and projects to enable continued improvement.
-
-      <h5>Achievements</h5>
-      - Worked with the company's two largest customers to ensure retention after a period of issues,
-        with one customer expanding their contract and adding additional £1.2m due to this effort;
-      - Provided a full CMDB device and relationship mapping to allow enhanced support and impact analysis;
-      - Executed monthly usage analysis to provide feedback on potential savings or performance bottlenecks;
-        This resulted in a major bottleneck being found with part of the infrastructure and mitigation being implemented;
-      - Implemented a billing audit to ensure devices were being billed accurately each month;
-      - Resolved some major problems that were causing poor customer performance.
-
-      <h5>Technologies</h5>
-      VMware vSphere, VMware vRealize, ServiceNow, Windows Server, Cisco ASA
-
-  - role: Senior Hosting Engineer
-    time: 2014 - 2015
+  - title: Senior Hosting Engineer
     company: Adapt (Acquired by Datapipe)
-    details: |
-      Providing support and implementing solutions for customers, including development of existing products.
-      A point of escalation for junior engineers.
-
-      <h5>Responsibilities</h5>
-      - Architecture and management of the deployment of customer environments;
-      - Act as an escalation point for junior engineers;
-      - Improve technical documentation and procedures.
-
-      <h5>Achievements</h5>
-      - Designed a repeatable VMware environment with DR capabilities where required;
-      - Automated the deployment of environments to enable the most efficient use of engineer's time;
-      - Continued development of internal IPAM for asset tracking and IP Management.
-
-      <h5>Technologies</h5>
-      Juniper SRX and EX, VMware vSphere, vCloud Director, Xen Server, NetApp, Windows Server, Linux (RHEL & Ubuntu), DNS, PHP, MySQL
-  - role: Hosting Engineer
-    time: 2013 - 2014
+    from: 2014
+    to: 2015
+    summary: >
+      Designed and implemented customer solutions at a principal engineer level, maintained the datacenter, and provided guidance to junior engineers.
+    responsibilities:
+      title: Responsibilities
+      list:
+      - Architected and managed the deployment of customer environments;
+      - Acted as an escalation point for junior engineers;
+      - Improved technical documentation and procedures;
+      - Supported the maintenance and operation of the datacenter.
+    achievements:
+      title: Achievements
+      list:
+      - Designed a repeatable VMware environment with disaster recovery capabilities;
+      - Automated the deployment of environments to optimise the use of engineers' time;
+      - Continued development of an internal IPAM system for asset tracking and IP management.
+    technologies:
+      title: Technologies
+      list:
+      - Juniper SRX and EX
+      - VMware vSphere
+      - vCloud Director
+      - Xen Server
+      - NetApp
+      - Windows Server
+      - Linux (RHEL & Ubuntu)
+      - DNS
+      - PHP
+      - MySQL
+  - title: Hosting Engineer
+    from: 2013
+    to: 2014
     company: Sleek Networks (Acquired by Adapt)
-    details: |
-      Providing support to our customers and assisting senior hosting engineers with implementing customer solutions.
-      Completing data centre maintenance including failover testing for generators and A/C checks.
-
-      <h5>Responsibilities</h5>
-      - Provide assistance in maintaining the data center, including failover testing for generators and mains power;
-      - Provisioning of new cabinets with power, cabling and switching gear;
-      - 1st and 2nd line helpdesk support for any customer queries or issues.
-
-      <h5>Technologies</h5>
-      Juniper SRX and EX, Cisco ASA, VMware vSphere, vCloud Director, Xen Server, NetApp Storage & Backup, Windows Server, Linux (RHEL & Ubuntu), DNS
+    summary: >
+      Providing support to our customers and assisting senior hosting engineers with implementing customer solutions. Completing data centre maintenance including failover testing for generators and A/C checks.
+    responsibilities:
+      title: Responsibilities
+      list:
+      - Assisted in maintaining the data center, including failover testing for generators and mains power;
+      - Provisioned new cabinets with power, cabling and switching gear;
+      - Provided 1st and 2nd line helpdesk support for customer queries and issues.
+    technologies:
+      title: Technologies
+      list:
+      - Juniper SRX and EX
+      - Cisco ASA
+      - VMware vSphere
+      - vCloud Director
+      - Xen Server
+      - NetApp Storage & Backup
+      - Windows Server
+      - Linux (RHEL & Ubuntu)
+      - DNS
 
 certifications:
   title: Certifications
   list:
-  - name: Professional Cloud Architect
+  - name: Professional Cloud Architect - Google Cloud Certified
     start: 2020
     end: 2024
     organization: Google
     credentialid: 8d75167e-0417-4d9a-b834-4e3d4975086a
     credentialurl: https://www.credential.net/8d75167e-0417-4d9a-b834-4e3d4975086a
-    credentialname: Google Cloud Certified
+    credentialname: Credential
   - name: AI Ready
     start: 2023
     organization: Rackspace Technology
     credentialid: 93cf1769-57d6-45c8-b2d4-a3617b9ae672
     credentialurl: https://www.credly.com/badges/93cf1769-57d6-45c8-b2d4-a3617b9ae672
-    credentialname: AI Ready
+    credentialname: Credly
 
 projects:
   title: Projects
-  intro: >
-    Below are a few projects that I have developed
-  assignments:
+  list:
   - title: Atomic Calendar Revive
     link: "https://github.com/totaldebug/atomic-calendar-revive"
     tagline: "An advanced calendar card for Home Assistant."
-
-  - title: Pyarr
-    link: "https://github.com/totaldebug/pyarr"
-    tagline: "A Python client for Servarr API's (Sonarr, Radarr, Readarr, Lidarr)"
-
 
 footer: >
   Copyright 2024 - Steven Marks
