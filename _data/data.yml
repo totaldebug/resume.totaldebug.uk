@@ -32,6 +32,7 @@ skills:
     - Terraform
     - Jira
     - Agile
+    - Datadog
   - title: Management Skills
     list:
     - Team Leader
@@ -76,7 +77,8 @@ experiences:
       list:
       - Designed, developed and implemented analytics tooling that identified discrepancies in billing, recovering approximately $1.2 million in missing revenue;
       - Developed and implemented a fully automated test lab using Terraform and Ansible, facilitating both user and automated testing;
-      - Implemented an end-of-life program for devices running outdated operating systems, generating an additional $600,000 in annual revenue.
+      - Implemented an end-of-life program for devices running outdated operating systems, generating an additional $600,000 in annual revenue;
+      - Automated the deployment and configuration of the Datadog monitoring tool, enabling support teams to update configurations automatically from a set template for additional plugins.
     technologies:
       title: Technologies
       list:
@@ -99,8 +101,8 @@ experiences:
       - Improved business workflows and tooling to provide a more efficient service;
       - Independently managed assigned tasks and communicated with task stakeholders;
       - Worked closely within the team and with external stakeholders, assisting senior engineers in qualifying and documenting new products, both hardware and software;
-      - Identified areas of improvement within the team and the larger organization;
-      - Designed, engineered, architected and integrated tooling to reduce total costs, support customers, and minimize human error.
+      - Identified areas of improvement within the team and the larger organisation;
+      - Designed, engineered, architected and integrated tooling to reduce total costs, support customers, and minimise human error.
     achievements:
       title: Achievements
       list:
@@ -164,7 +166,8 @@ experiences:
       - Delivered a comprehensive CMDB device and relationship mapping, enabling enhanced support and impact analysis;
       - Conducted monthly usage analysis to identify potential savings and performance bottlenecks, leading to the discovery and mitigation of a major infrastructure bottleneck;
       - Implemented a billing audit to ensure accurate monthly billing for all devices;
-      - Resolved major issues that were negatively impacting customer performance, significantly improving satisfaction and service delivery.
+      - Resolved major issues that were negatively impacting customer performance, significantly improving satisfaction and service delivery;
+      - Successfully migrated customers from the Leeds based datacenter to a modern, state of the art datacenter in London.
     technologies:
       title: Technologies
       list:
