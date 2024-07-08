@@ -89,6 +89,7 @@ experiences:
       - AWS SSM
       - Google BigQuery
       - PostgreSQL
+      - Datadog
   - title: Full Stack Systems Engineer II
     company: Rackspace Technology
     from: 2019
