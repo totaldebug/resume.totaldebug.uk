@@ -89,7 +89,10 @@ experiences:
       - AWS SSM
       - Google BigQuery
       - PostgreSQL
+      - Terraform
+      - Ansible
       - Datadog
+
   - title: Full Stack Systems Engineer II
     company: Rackspace Technology
     from: 2019
@@ -107,7 +110,9 @@ experiences:
     achievements:
       title: Achievements
       list:
-      - Implemented single-click login for customer devices, saving an average of 15 minutes per device connection.
+      - Implemented single-click login for customer devices, saving an average of 15 minutes per device connection;
+      - Spearheaded the successful migration of the Leeds data center and its clients, resulting in an annual cost reduction of £300,000 for the company;
+      - Standardized the deployment and management processes of IBM BigFix for efficient patching and configuration management.
     technologies:
       title: Technologies
       list:
@@ -117,6 +122,11 @@ experiences:
       - Github Actions
       - Okd
       - PostgreSQL
+      - Linux
+      - Windows Server
+      - Cisco
+      - Juniper
+      - IBM BigFix
   - title: Technical Support, Team Leader
     company: Rackspace Technology
     from: 2017
