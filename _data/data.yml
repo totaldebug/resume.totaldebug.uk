@@ -16,7 +16,7 @@ contact:
 professional-summary:
   title: Professional Summary
   detail: >
-    As an experienced Full Stack Systems Engineer, I specialise in Workflow Optimisation, Workload Reduction, Process Standardisation and Toolset Integration. I excel in solving complex IT problems and have successfully undertaken diverse roles throughout my career. <br /> <br /> I am passionate about sharing my knowledge and possess strong interpersonal skills, enabling effective communication at all organisational levels, from front-line support to senior directors.
+    As an experienced Full Stack Systems Engineer, I specialise in Workflow Optimisation, Workload Reduction, Process Standardisation and Toolset Integration. I excel in solving complex IT problems and have successfully undertaken diverse roles throughout my career. <br /> <br /> I am passionate about sharing my knowledge and skilled in communicating effectively across all organizational levels.
 skills:
   title: Key Skills
   skills:
@@ -67,15 +67,15 @@ experiences:
     responsibilities:
       title: Responsibilities
       list:
-      - Identified areas of improvement for existing or new tooling;
-      - Managed approved projects and implemented them within assigned timelines;
-      - Provided support and guidance to other engineers;
+      - Improved existing and new tooling;
+      - Completed approved projects within deadlines;
+      - Guided and supported engineering teams;
       - Acted as a point of escalation for support teams and Full Stack Systems Engineers;
       - Worked with external stakeholders to qualify and document new products, both hardware and software.
     achievements:
       title: Achievements
       list:
-      - Designed, developed and implemented analytics tooling that identified discrepancies in billing, recovering approximately $1.2 million in missing revenue;
+      - Developed analytics tools that identified billing discrepancies, recovering $1.2 million in revenue;
       - Developed and implemented a fully automated test lab using Terraform and Ansible, facilitating both user and automated testing;
       - Implemented an end-of-life program for devices running outdated operating systems, generating an additional $600,000 in annual revenue;
       - Automated the deployment and configuration of the Datadog monitoring tool, enabling support teams to update configurations automatically from a set template for additional plugins.
@@ -145,7 +145,7 @@ experiences:
     achievements:
       title: Achievements
       list:
-      - Implemented a reporting tool using Python and Grafana, identifying stale tickets, closure times, and additional statistics to aid faster customer ticket resolutions and increase engineer responsibility;
+      - Created a Python and Grafana tool to track stale tickets and closure times, speeding up resolutions and increasing accountability;
       - Significantly reduced ticket queue lengths by implementing more efficient ticket management procedures and reporting.
       - Under my mentorship, the team ticket latency from 4 weeks to 30 minutes.
 
