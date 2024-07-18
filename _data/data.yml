@@ -222,13 +222,13 @@ certifications:
     end: 2024
     organization: Google
     credentialid: 8d75167e-0417-4d9a-b834-4e3d4975086a
-    credentialurl: https://www.credential.net/8d75167e-0417-4d9a-b834-4e3d4975086a
+    credentialurl: www.credential.net/8d75167e-0417-4d9a-b834-4e3d4975086a
     credentialname: Credential
   - name: AI Ready
     start: 2023
     organization: Rackspace Technology
     credentialid: 93cf1769-57d6-45c8-b2d4-a3617b9ae672
-    credentialurl: https://www.credly.com/badges/93cf1769-57d6-45c8-b2d4-a3617b9ae672
+    credentialurl: www.credly.com/badges/93cf1769-57d6-45c8-b2d4-a3617b9ae672
     credentialname: Credly
 
 projects:
