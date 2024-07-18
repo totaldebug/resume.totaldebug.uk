@@ -76,8 +76,8 @@ experiences:
       title: Achievements
       list:
       - Developed analytics tools that identified billing discrepancies, recovering $1.2 million in revenue;
-      - Developed and implemented a fully automated test lab using Terraform and Ansible, facilitating both user and automated testing;
-      - Implemented an end-of-life program for devices running outdated operating systems, generating an additional $600,000 in annual revenue;
+      - Developed and created a fully automated test lab using Terraform and Ansible, facilitating both user and automated testing;
+      - Implemented an end-of-life program for outdated devices, generating an additional $600,000 in annual revenue;
       - Automated the deployment and configuration of the Datadog monitoring tool, enabling support teams to update configurations automatically from a set template for additional plugins.
     technologies:
       title: Technologies
@@ -132,7 +132,7 @@ experiences:
     from: 2017
     to: 2019
     summary: >
-      Responsible for leading a team of 15 Windows Engineers, providing 3rd line support to our customer base.
+      Led a team of 15 Windows Engineers, providing 3rd line support to our customer base.
     responsibilities:
       title: Responsibilities
       list:
@@ -176,7 +176,7 @@ experiences:
       - Retained one of the company's largest customers, preventing their departure and securing an additional £1.2 million in revenue through expanded contracts;
       - Delivered a comprehensive CMDB device and relationship mapping, enabling enhanced support and impact analysis;
       - Conducted monthly usage analysis to identify potential savings and performance bottlenecks, leading to the discovery and mitigation of a major infrastructure bottleneck;
-      - Implemented a billing audit to ensure accurate monthly billing for all devices;
+      - Enforced a billing audit to ensure accurate monthly billing for all devices;
       - Resolved major issues that were negatively impacting customer performance, significantly improving satisfaction and service delivery;
       - Successfully migrated customers from the Leeds based datacenter to a modern, state of the art datacenter in London.
     technologies:
@@ -193,7 +193,7 @@ experiences:
     from: 2014
     to: 2015
     summary: >
-      Designed and implemented customer solutions at a principal engineer level, maintained the datacenter, and provided guidance to junior engineers.
+      Designed and delivered customer solutions at a principal engineer level, maintained the datacenter, and provided guidance to junior engineers.
     responsibilities:
       title: Responsibilities
       list:
@@ -220,30 +220,6 @@ experiences:
       - DNS
       - PHP
       - MySQL
-  - title: Hosting Engineer
-    from: 2013
-    to: 2014
-    company: Sleek Networks (Acquired by Adapt)
-    summary: >
-      Providing support to our customers and assisting senior hosting engineers with implementing customer solutions. Completing data centre maintenance including failover testing for generators and A/C checks.
-    responsibilities:
-      title: Responsibilities
-      list:
-      - Assisted in maintaining the data center, including failover testing for generators and mains power;
-      - Provisioned new cabinets with power, cabling and switching gear;
-      - Provided 1st and 2nd line helpdesk support for customer queries and issues.
-    technologies:
-      title: Technologies
-      list:
-      - Juniper SRX and EX
-      - Cisco ASA
-      - VMware vSphere
-      - vCloud Director
-      - Xen Server
-      - NetApp Storage & Backup
-      - Windows Server
-      - Linux (RHEL & Ubuntu)
-      - DNS
 
 certifications:
   title: Certifications
