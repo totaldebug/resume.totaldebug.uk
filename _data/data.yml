@@ -198,15 +198,8 @@ experiences:
       title: Responsibilities
       list:
       - Architected and managed the deployment of customer environments;
-      - Acted as an escalation point for junior engineers;
       - Improved technical documentation and procedures;
       - Supported the maintenance and operation of the datacenter.
-    achievements:
-      title: Achievements
-      list:
-      - Designed a repeatable VMware environment with disaster recovery capabilities;
-      - Automated the deployment of environments to optimise the use of engineers' time;
-      - Continued development of an internal IPAM system for asset tracking and IP management.
     technologies:
       title: Technologies
       list:
