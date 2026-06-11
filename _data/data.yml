@@ -63,7 +63,7 @@ experiences:
         - Built the entire GCP platform from the ground up, running production workloads on GKE with all infrastructure managed as code in OpenTofu/Terraform, cutting environment provisioning time from days to hours;
         - Designed a GitOps continuous-delivery pipeline using ArgoCD and Argo Image Updater, increasing deployment frequency to multiple times per week and reducing manual deployment effort by ~90%;
         - Lead developer for the Python backend (Django/FastAPI) and frontend web application, delivering 350+ features across 200+ versioned releases via automated semantic-release CI/CD;
-        - Built SBOM analysis across 3 industry-standard formats (CycloneDX, SPDX, Syft), with configuration hardening checks spanning 13 control categories mapped to compliance frameworks including SOC 2, ISO 27001, PCI-DSS and the EU Cyber Resilience Act;
+        - Built SBOM analysis across 2 industry-standard formats (CycloneDX, SPDX), with configuration hardening checks spanning 13 control categories mapped to compliance frameworks including SOC 2, ISO 27001, PCI-DSS and the EU Cyber Resilience Act;
         - Integrated LLM/ML capabilities (Google Gemini / Vertex AI) to auto-generate device-aware remediation, eliminating manual fix research so findings ship with a ready-to-run command or one-click TUI auto-fix.
     technologies:
       title: Technologies
