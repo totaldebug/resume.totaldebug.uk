@@ -15,7 +15,7 @@ contact:
 professional-summary:
   title: Professional Summary
   detail: >
-    Lead Cloud Engineer and Full Stack Developer with over a decade of experience spanning cloud architecture, platform engineering and software delivery. Specialises in designing and operating production platforms on Google Cloud (GKE, Cloud SQL, Cloud Run), with infrastructure managed as code in Terraform/OpenTofu and GitOps continuous delivery through ArgoCD. <br /> <br /> Combines hands-on Python full-stack development (Django, FastAPI) with technical leadership — setting direction, mentoring engineers and shipping features end-to-end while communicating effectively across all organisational levels.
+    Lead Cloud Engineer and Full Stack Developer with over a decade of experience spanning cloud architecture, platform engineering and software delivery. Specialises in designing and operating production platforms on Google Cloud (GKE, Cloud SQL, Cloud Run), with infrastructure managed as code in Terraform/OpenTofu and GitOps continuous delivery through ArgoCD. <br /> <br /> Combines hands-on Python full-stack development (Django, FastAPI) with technical leadership — setting direction, mentoring engineers and shipping features end-to-end while communicating effectively across all organisational levels. <br /> <br /> Active open-source maintainer of a 600+ star project and author of technical tutorials at totaldebug.uk, with a track record of sustained delivery and community engagement.
 skills:
   title: Key Skills
   skills:
