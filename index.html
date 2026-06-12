@@ -2,6 +2,41 @@
 layout: default
 ---
 
+<a href="{{ '/Steven-Marks-Resume.pdf' | relative_url }}" class="print-pdf-btn" download
+   title="Download a PDF copy of this resume">
+    <i class="fa-solid fa-file-arrow-down me-2"></i>Download PDF
+</a>
+<style>
+    .print-pdf-btn {
+        position: fixed;
+        right: 20px;
+        bottom: 20px;
+        z-index: 1000;
+        background: #515151;
+        color: #fff !important;
+        text-decoration: none !important;
+        padding: 10px 16px;
+        border-radius: 6px;
+        font-family: 'Roboto', sans-serif;
+        font-size: 14px;
+        font-weight: 600;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+        transition: background 0.2s ease;
+    }
+
+    .print-pdf-btn:hover {
+        background: #2a2d31;
+        color: #fff !important;
+    }
+
+    /* Never show the button on a physical/PDF print of the home page */
+    @media print {
+        .print-pdf-btn {
+            display: none !important;
+        }
+    }
+</style>
+
 {% include skills.html %}
 
 {% include experience.html %}

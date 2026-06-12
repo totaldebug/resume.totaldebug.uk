@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<!--[if IE 8]> <html lang="en" class="ie8"> <![endif]-->
+<!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->
+<!--[if !IE]><!-->
+<html lang="en">
+<!--<![endif]-->
+{% include head.html %}
+<style>
+  body {
+    padding: 0 !important;
+    background: unset !important;
+  }
+
+  .wrapper {
+    max-width: unset !important;
+  }
+
+  .container-fluid {
+    padding-right: unset !important;
+    padding-left: unset !important;
+  }
+
+  .col-md-8,
+  .col-md-4 {
+    flex: none;
+  }
+
+  .col-md-8 {
+    width: 66.66667%;
+  }
+
+  .col-md-4 {
+    width: 33.33333%;
+  }
+
+  /* ---------------------------------------------------------------------- */
+  /* Compact print overrides (print.html only — does not affect the website) */
+  /* ---------------------------------------------------------------------- */
+
+  /* Tighter base line spacing */
+  .wrapper {
+    line-height: 1.3;
+  }
+
+  /* Smaller, tighter section headings */
+  .heading {
+    font-size: 18px !important;
+    line-height: 21px !important;
+    margin-top: 6px !important;
+    margin-bottom: 4px !important;
+  }
+
+  /* Pull sections closer together */
+  .skn-mlo6 .mid-section {
+    padding-top: 2px;
+  }
+
+  .mid-section:last-child {
+    padding-bottom: 0 !important;
+  }
+
+  /* Trim the gap between roles */
+  .work {
+    padding-bottom: 0.35rem !important;
+  }
+
+  /* Sub-headings (Responsibilities / Achievements / Technologies) */
+  .sub-heading {
+    padding-top: 3px !important;
+  }
+
+  /* Bullet lists: tighter rows and leading */
+  .skn-mlo6 ul {
+    margin-top: 2px;
+    line-height: 1.25;
+  }
+
+  .skn-mlo6 ul li {
+    padding-bottom: 1px;
+  }
+
+  /* Summary / intro paragraphs */
+  .skn-mlo6 .paragraph {
+    margin-top: 6px;
+  }
+
+  .row.summary .summary p {
+    margin-bottom: 0;
+  }
+
+  /* Contact rows */
+  .icon-row {
+    margin-bottom: 3px;
+  }
+
+  /* Shrink the name banner so it claims less of page one */
+  .name {
+    font-size: 44px;
+    line-height: 48px;
+  }
+
+  .top-section {
+    padding: 16px 21px !important;
+  }
+
+  .resume-title {
+    padding-top: 4px;
+  }
+
+  /* Key Skills: render as plain comma-separated text instead of badges */
+  .skills strong {
+    font-weight: 700;
+  }
+
+  .skills .skill-badge {
+    border: 0 !important;
+    border-radius: 0 !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    color: inherit !important;
+    font-weight: 400 !important;
+    display: inline !important;
+  }
+
+  .skills .skill-badge:not(:last-child)::after {
+    content: ", ";
+  }
+
+  /* Show project URLs as visible text — clickable links are useless on paper */
+  .project-url {
+    display: inline !important;
+    color: #555;
+    font-weight: 400;
+  }
+
+  /* Avoid awkward splits on small blocks, but let long roles flow across
+     page boundaries so they don't leave half a page empty. */
+  .skills > div,
+  .certs,
+  .projects {
+    page-break-inside: avoid;
+    break-inside: avoid;
+  }
+
+  /* Don't strand a sub-heading at the very bottom of a page */
+  .sub-heading {
+    page-break-after: avoid;
+    break-after: avoid;
+  }
+
+  @page {
+    size: A4;
+    margin: 12mm;
+  }
+</style>
+
+<body>
+  <div class="container-fluid">
+    <div class="wrapper">
+      <div class="skn-mlo6 fontsize document magenta-photo">
+        {% include headbar.html %}
+        {% include main-section.html %}
+        {{ content }}
+
+      </div>
+    </div>
+  </div>
+
+  {% include scripts.html %}
+</body>
+
+</html>
