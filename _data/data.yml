@@ -261,8 +261,7 @@ certifications:
 projects:
   title: Projects
   intro: >
-    A selection of open-source projects I build and maintain — spanning home
-    automation and edge security tooling — used by communities worldwide.
+    A selection of open-source projects I build and maintain.
   list:
   - title: Atomic Calendar Revive
     link: "https://github.com/totaldebug/atomic-calendar-revive"
