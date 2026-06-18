@@ -2,7 +2,7 @@
 {% assign projects = site.data.data.projects %}
 <section class="row mid-section">
     <div class="heading">{{ projects.title }}</div>
-    {% if projects.intro %}
+    {% if projects.intro != blank %}
     <div class="intro">
         <p>{{ projects.intro }}</p>
     </div><!--//intro-->
