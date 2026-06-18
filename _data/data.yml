@@ -49,13 +49,13 @@ experiences:
     from: 2024
     to: present
     summary: >
-      Sole cloud engineer for an early-stage security startup, owning the design and implementation of the entire GCP platform end-to-end. Lead developer for the backend API and frontend web application, while managing sprint delivery across a small team of engineers.
+      Sole cloud engineer for an early-stage security startup, owning the design and implementation of the entire GCP platform end-to-end. Lead developer for the backend API and frontend web application, while managing Agile sprint delivery across a small team of engineers.
     responsibilities:
       title: Responsibilities
       list:
         - Architected, designed and implemented the complete cloud platform on GCP as the sole cloud engineer;
         - Led development of the backend API and frontend web application, taking features from design through to production;
-        - Owned project delivery end-to-end, tracking progress, removing blockers and ensuring releases shipped on schedule;
+        - Owned project delivery end-to-end using Agile practices, running sprint planning, stand-ups and retrospectives to track progress, remove blockers and ship releases on schedule;
         - Coordinated and mentored a small team of engineers, setting technical direction and reviewing their work.
     achievements:
       title: Achievements
@@ -93,6 +93,7 @@ experiences:
       title: Responsibilities
       list:
       - Improved existing and new tooling;
+      - Delivered projects within a Scrum framework, participating in sprint planning, daily stand-ups and retrospectives;
       - Completed approved projects within deadlines;
       - Guided and supported engineering teams;
       - Acted as a point of escalation for support teams and Full Stack Systems Engineers;
@@ -128,6 +129,7 @@ experiences:
       title: Responsibilities
       list:
       - Improved business workflows and tooling to provide a more efficient service;
+      - Delivered work within a Scrum framework, participating in sprint planning, daily stand-ups and retrospectives;
       - Independently managed assigned tasks and communicated with task stakeholders;
       - Worked closely within the team and with external stakeholders, assisting senior engineers in qualifying and documenting new products, both hardware and software;
       - Identified areas of improvement within the team and the larger organisation;
