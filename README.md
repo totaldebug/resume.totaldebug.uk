@@ -82,3 +82,18 @@ Install Ruby and Bundler, then:
 bundle install
 bundle exec jekyll serve
 ```
+
+## Regenerating the PDF locally
+
+`Steven-Marks-Resume.pdf` is a committed static asset that Jekyll copies into
+`_site/` as-is. It is normally re-rendered only by CI on push to `main`, so a
+local preview will serve a stale PDF until it is regenerated. To render a fresh
+copy from the current content (requires Chrome/Chromium):
+
+```sh
+make pdf        # or: ./bin/generate-pdf.sh
+```
+
+This builds the site, serves it, renders `print.html` to a PDF via headless
+Chrome, and writes the result to both `_site/` and the repo root - identical to
+the CI render step.
